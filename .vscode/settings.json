@@ -1,0 +1,12 @@
+{
+  "javascript.preferences.quoteStyle": "double",
+  "typescript.preferences.quoteStyle": "double",
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+  "javascript.format.semicolons": "remove",
+  "html.format.extraLiners": "",
+  "html.completion.attributeDefaultValue": "doublequotes",
+  "debug.javascript.resourceRequestOptions": {
+  
+  }
+}
